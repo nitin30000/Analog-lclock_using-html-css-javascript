@@ -1,2 +1,2 @@
-# Analog-lclock_using-html-css-javascript
+# Analog-clock_using-html-css-javascript
 Bulid Anaolg clock using html, css, Javascript
